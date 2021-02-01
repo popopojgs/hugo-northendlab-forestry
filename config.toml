@@ -66,7 +66,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-facebook"
-link = "google.es"
+link = "https://google.es"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
