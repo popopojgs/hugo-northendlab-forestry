@@ -1,10 +1,10 @@
 baseURL = "/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "es-ES"
 paginate = "5"
 summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
-title = "Hugo Northendlab Forestry starter"
+title = "Javier G. Salcedo"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
