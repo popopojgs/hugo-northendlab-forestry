@@ -24,7 +24,7 @@ weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Javier G. Salcedo"
 contact_form_action = "#"
 copyright = ""
 description = "This is meta description"
